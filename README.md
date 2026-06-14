@@ -17,7 +17,7 @@ Instead of basic string matching, this project uses **Flex** and **Bison** to bu
 * **Language:** C
 * **Tools:** Flex (Lexical Analyzer), Bison/Yacc (Parser Generator)
 * 
- ## 📌 Acknowledgments & Academic Context
+ ##  Acknowledgments & Academic Context
 This project was developed as part of an academic assignment. The data structures and data loading utilities (`pogo_types.h`, `data_loader.c/h`) were provided by the instructor as a base template. My core contribution and the main focus of this repository is the design and implementation of the **Query Parser and AST Evaluation Engine** (`lexer.l`, `parser.y`, `ast.c`).
 
 ---
@@ -43,5 +43,5 @@ Basit metin eşleştirme algoritmaları yerine, bu projede gerçek bir ayrışt�
 * **Programlama Dili:** C
 * **Araçlar:** Flex (Sözcüksel Analiz - Lexer), Bison/Yacc (Sözdizimsel Analiz - Parser)
 
-## 📌 Akademik Bağlam ve Katkı Beyanı
+##  Akademik Bağlam ve Katkı Beyanı
 Bu proje akademik bir görevin parçası olarak geliştirilmiştir. Veri yapıları ve veritabanı okuma araçları (`pogo_types.h`, `data_loader.c/h`) eğitmen tarafından temel bir şablon olarak sağlanmıştır. Benim bu projedeki temel katkım ve bu deponun (repository) asıl odak noktası; **Sorgu Ayrıştırıcı (Query Parser) ve AST Değerlendirme Motorunun** (`lexer.l`, `parser.y`, `ast.c`) sıfırdan tasarlanıp kodlanmasıdır.
